@@ -57,6 +57,7 @@ used to research
 them.
 3. Go through an embryo adoption agency to let others (many times infertile couples) adopt their
 embryos and give them a chance at life.
+
 Growing up and in the first part of our marriage because of different diagnosis I had I thought I would
 have trouble getting pregnant. Hashimoto’s disease and a Dr had thought I might have PCOS. I
 researched IVF and snowflake babies extensively not only because of the events in high school but just
