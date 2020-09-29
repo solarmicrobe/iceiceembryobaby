@@ -37,10 +37,7 @@ expensive options is in vitro fertilization. This is done by creating an embryo 
 women’s egg to create, in a lab, several embryos. The amount of embryos created are mainly
 determined by the amount of eggs available, either from the biological mother or an egg donor. There
 are additional factors that go into the final number but if you want to know more scientific info you can
-read here.
-https://www.mayoclinic.org/tests-procedures/in-vitro-fertilization/about/pac-
-20384716#:~:text=During%20in%20vitro%20fertilization%2C%20eggs,within%20an%20ovary%20(A).&amp;te
-xt=During%20IVF%20%2C%20mature%20eggs%20are,IVF%20takes%20about%20three%20weeks.
+[read here](https://www.mayoclinic.org/tests-procedures/in-vitro-fertilization/about/pac-20384716).
 
 So lets say there were 15 embryos created and it is decided that a family is complete after two babies
 are born. This leaves 13 embryos frozen (assuming that none were implanted and didn’t result in a
