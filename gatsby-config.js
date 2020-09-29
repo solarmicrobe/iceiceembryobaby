@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Ice Ice Embryo Baby Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Jolaine Parks`,
+      summary: ``,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `A blog about our journey to an embryo baby`,
+    siteUrl: `https://iceiceembryobaby.com/`,
     social: {
-      twitter: `kylemathews`,
+      facebook: `jolainemarie`,
     },
   },
   plugins: [
